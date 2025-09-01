@@ -7,12 +7,12 @@
 المشروع عبارة عن موقع بورتفوليو شخصي بيعرض المعلومات عني، شغلي، والمشاريع اللي بعملها.  
 اتعلمت خطوات المشروع من قناة 
 Codezilla على يوتيوب، وده رابط المشروع الأصلي:  
-[مشروع Codezilla](https://www.youtube.com/watch?v=Hnm3BP-tjD8&list=PLuXY3ddo_8nwyBVa1I3xHXYgpQHJ1Z0wn&index=3)
+[مشروع Codezilla](https://www.youtube.com/watch?v=cARGOrtiWt4&list=PLuXY3ddo_8nwyBVa1I3xHXYgpQHJ1Z0wn&index=2)
 
 ---
 
 ## 🚀 العرض المباشر (Live Demo)
-[اضغط هنا لعرض المشروع](ضع_هنا_رابط_الموقع_على_Netlify_او_Vercel)
+[اضغط هنا لعرض المشروع](https://amira713.github.io/my-portfolio/)
 
 ---
 
@@ -57,12 +57,12 @@ Codezilla على يوتيوب، وده رابط المشروع الأصلي:
 This is my **third project** in web development.  
 It’s a **personal portfolio website** to showcase my information, work, and projects.  
 I learned the steps from **Codezilla’s YouTube channel**, and here’s the original project:  
-[Codezilla Project](https://www.youtube.com/watch?v=Hnm3BP-tjD8&list=PLuXY3ddo_8nwyBVa1I3xHXYgpQHJ1Z0wn&index=3)
+[Codezilla Project](https://www.youtube.com/watch?v=cARGOrtiWt4&list=PLuXY3ddo_8nwyBVa1I3xHXYgpQHJ1Z0wn&index=2)
 
 ---
 
 ## 🚀 Live Demo
-[Click here to view the project](Put_Your_Netlify_or_Vercel_Link_Here)
+[Click here to view the project](https://amira713.github.io/my-portfolio/)
 
 ---
 
